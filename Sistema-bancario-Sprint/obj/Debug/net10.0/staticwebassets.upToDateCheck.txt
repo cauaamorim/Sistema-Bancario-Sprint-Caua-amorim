@@ -1,0 +1,6 @@
+wwwroot\bank.html
+wwwroot\login.html
+wwwroot\register.html
+C:\Users\232.975907\Sistema-bancario-Sprint-API-Ford-Back-end-Cauã-Amorim\Sistema-bancario-Sprint\Sistema-bancario-Sprint\wwwroot\bank.html
+C:\Users\232.975907\Sistema-bancario-Sprint-API-Ford-Back-end-Cauã-Amorim\Sistema-bancario-Sprint\Sistema-bancario-Sprint\wwwroot\login.html
+C:\Users\232.975907\Sistema-bancario-Sprint-API-Ford-Back-end-Cauã-Amorim\Sistema-bancario-Sprint\Sistema-bancario-Sprint\wwwroot\register.html
